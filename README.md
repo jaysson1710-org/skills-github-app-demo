@@ -1,5 +1,7 @@
 # Welcome to the exercise on installing GitHub Apps!
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b5426149c9c54e5b8af25836cc476cdc)](https://app.codacy.com/gh/jaysson1710-org/skills-github-app-demo?utm_source=github.com&utm_medium=referral&utm_content=jaysson1710-org/skills-github-app-demo&utm_campaign=Badge_Grade)
+
 This exercise checks your ability to manage GitHub Apps for your organization. It is automatically graded via a workflow once you have completed the instructions.
 
 ## About this exercise
